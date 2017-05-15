@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    margin-bottom: 40px;
+}
+label {
+    color: #333;
+}
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
+.machérie {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.5;
+  background-image: url(img/poulet4.jpg);
+
+}
